@@ -1,0 +1,36 @@
+[{
+		"linkAddress": "home.html",
+		"linkText": "Home",
+		"liclass": "active"
+	},
+	{
+		"linkAddress": "about-us.html",
+		"linkText": "About us"
+	},
+	{
+		"linkText": "Products",
+		"liclass": "dropdown",
+		"children": [{
+				"linkAddress": "product.html#/car-insurance",
+				"linkText": "Car Insurance"
+			},
+			{
+				"linkAddress": "product.html#/health-insurance",
+				"linkText": "Health Insurance",
+				"separator": "true"
+			},
+			{
+				"linkAddress": "product.html#/travel-insurance",
+				"linkText": "Travel Insurance"
+			}
+		]
+	},
+	{
+		"linkAddress": "under-construction.html",
+		"linkText": "Pay Online"
+	},
+	{
+		"linkAddress": "contact-us.html",
+		"linkText": "Contact us"
+	}
+]

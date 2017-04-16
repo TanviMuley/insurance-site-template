@@ -1,0 +1,25 @@
+{
+	"products": [{
+			"name": "Car Insurance",
+			"isActive":"true",
+			"imageurl": "car-insurance.jpg",
+			"imagealt": "Car Insurance",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+			"pageurl": "product-1.html"
+		},
+		{
+			"name": "Health Insurance",
+			"imageurl": "health-insurance.jpg",
+			"imagealt": "Health Insurance",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+			"pageurl": "product-2.html"
+		},
+		{
+			"name": "Travel Insurance",
+			"imageurl": "travel-insurance.jpg",
+			"imagealt": "Travel Insurance",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+			"pageurl": "product-3.html"
+		}
+	]
+}
